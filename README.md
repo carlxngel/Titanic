@@ -157,6 +157,3 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 Gracias por visitar este repositorio. Si te ha resultado útil, no olvides darle una estrella ⭐ y no dudes en ponerte en contacto si tienes preguntas o sugerencias.
 
-Code
-
-Puedes copiar este contenido y colocarlo en tu archivo
